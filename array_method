@@ -1,0 +1,5 @@
+//------------Array Join -----------------
+//------------Array to String Convert----------
+
+var number = [1,2,3,4,5,6,7];
+console.log(number.join(','));
